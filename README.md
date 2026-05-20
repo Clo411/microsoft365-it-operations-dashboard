@@ -1,2 +1,6 @@
-# microsoft365-it-operations-dashboard
-Interactive IT operations dashboard and analytics project for Microsoft 365 administration, incident tracking, reporting automation, and system performance monitoring.
+README.md
+m365_operations_dataset.csv
+dashboard_mockup.png
+it_operations_analysis.ipynb
+m365_dashboard.pbix
+queries.sql
