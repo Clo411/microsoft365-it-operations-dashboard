@@ -65,3 +65,9 @@ I also work on data analytics and business intelligence projects on Kaggle.
 
 Kaggle Profile:
 https://www.kaggle.com/code/niyomwungereclo/power-bi-kpi-dashboard-and-forecasting-analysis/edit/run/320851255
+
+
+## Live Dashboard
+
+Tableau Public Dashboard:
+YOUR_TABLEAU_PUBLIC_LINK
