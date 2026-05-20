@@ -67,6 +67,12 @@ Kaggle Profile:
 https://www.kaggle.com/code/niyomwungereclo/power-bi-kpi-dashboard-and-forecasting-analysis/edit/run/320851255
 
 
+### Featured Kaggle Project
+
+Power BI KPI Dashboard and Forecasting Analysis
+
+YOUR_KAGGLE_NOTEBOOK_LINK
+
 ## Live Dashboard
 
 Tableau Public Dashboard:
