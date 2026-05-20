@@ -57,3 +57,11 @@ This project demonstrates how Microsoft 365 operational data can be transformed 
 Clovis Niyomwungere
 
 IT Manager | Data Analyst | Business Intelligence Specialist
+
+
+## Kaggle Work
+
+I also work on data analytics and business intelligence projects on Kaggle.
+
+Kaggle Profile:
+https://www.kaggle.com/code/niyomwungereclo/power-bi-kpi-dashboard-and-forecasting-analysis/edit/run/320851255
